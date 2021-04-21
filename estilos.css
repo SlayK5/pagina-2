@@ -1,0 +1,27 @@
+.estilo_div{
+height: 250px;
+width: 600px;
+overflow:scroll;
+float:left;
+
+}
+.estilo_div2{
+height: 250px;
+width: 600px;
+margin 20px auto;
+overflow:scroll;
+float: right;
+}
+.estilo_div3{
+overflow:hidden;
+width: 1250px;
+padding: 20px
+}
+.tablita{
+width: 155px;
+height: 400px;
+}
+.tablita1{
+width: 220px;
+height: 400px;
+}
